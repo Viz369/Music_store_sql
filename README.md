@@ -4,7 +4,9 @@ Overview :
 The primary objective of this project is :
 
 A. help the music store management enhance their business growth.
+
 B. optimize their inventory to ensure each store has the right selection of music in stock.
+
 C. To reduce lost sales and customer frustration.
 
 Using SQL queries  Identify popular music genre trends among customer segments and analyze purchase patterns to understand how customer demographics or playlist characteristics influence music taste.
@@ -26,10 +28,15 @@ Write a query that returns the country along with the top customer and how much 
 
 Insights:
 A. USA has the highest amount of purchases
+
 B. Average invoice value is ~ $ 8
+
 C. Prague, Mountain View & London have the highest sales.
+
 D. Store’s Top 3 customers are from Prague & Dublin.
+
 E. Artists with highest sales are AC/DC, Aerosmith & Audioslave.
+
 F. Rock is the most popular genre and has the highest sales.
 G. Average song length for Top 10 selling songs is 5 min 18 sec
 
