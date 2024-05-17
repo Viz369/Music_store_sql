@@ -2,8 +2,9 @@
 
 Overview : 
 The primary objective of this project is :
---> help the music store management enhance their business growth 
---> optimize their inventory to ensure each store has the right selection of music in stock
+
+--> help the music store management enhance their business growth.
+--> optimize their inventory to ensure each store has the right selection of music in stock.
 --> To reduce lost sales and customer frustration.
 
 Using SQL queries  Identify popular music genre trends among customer segments and analyze purchase patterns to understand how customer demographics or playlist characteristics influence music taste.
